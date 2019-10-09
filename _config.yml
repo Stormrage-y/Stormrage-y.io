@@ -1,16 +1,16 @@
-title: Mr.Brown
-description: Mr.Brown is a responsive jekyll theme
+title: Tian.Y
+description: 个人博客系统 ---- 记录学习过程中的点滴
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 baseurl: "/Stormrage-y.io" # the subpath of your site, e.g. /blog
 
 # Comments
 discus_identifier: Stormrage-y.io
-txtpen_identifier: raizer85
+# txtpen_identifier: raizer85
 
 # Social settings
-twitter_url: https://twitter.com/artemsheludko_
-facebook_url: https://facebook.com/
-googleplus_url: https://plus.google.com/
-instagram_url: https://instagram.com
+# twitter_url: https://twitter.com/artemsheludko_
+# facebook_url: https://facebook.com/
+# googleplus_url: https://plus.google.com/
+# instagram_url: https://instagram.com
 github_url: https://github.com/Stormrage-y/
